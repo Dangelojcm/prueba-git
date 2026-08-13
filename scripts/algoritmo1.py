@@ -10,5 +10,3 @@ print("Números primos del 1 al 30:")
 for num in range(1, 31):
     if es_primo(num):
         print(num)
-
-print("Esta línea es un error de prueba")
