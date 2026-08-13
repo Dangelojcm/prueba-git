@@ -10,6 +10,3 @@ print("Números primos del 1 al 30:")
 for num in range(1, 31):
     if es_primo(num):
         print(num)
-
-def saludo():
-    return "Hola, bienvenido a mi proyecto de Git"
